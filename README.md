@@ -1,4 +1,4 @@
-Hier ist ein README-Entwurf für dein Projekt:
+
 Datenbank-Projekt
 
 Dieses Projekt enthält eine Reihe von JSP-Seiten und HTML-Dokumenten, die für die Verwaltung und Interaktion mit einer Datenbank entwickelt wurden. Es umfasst verschiedene Funktionalitäten wie Benutzerregistrierung, Login, und Verwaltungsseiten für unterschiedliche Benutzerrollen.
